@@ -1,5 +1,4 @@
-README — Proyecto Colab: Firmware vulnerable y remediación (simulado)
-
+# README — Proyecto Colab: Firmware vulnerable y remediación (simulado)
 Archivos creados:
  - device_insecure.py   : firmware v1 inseguro (muestra credenciales en texto plano)
  - attacker_sim.py      : atacante que prueba admin/admin contra device_state.json
